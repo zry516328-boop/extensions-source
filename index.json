@@ -1,0 +1,39 @@
+{
+  "name": "zry516328-boop JM",
+  "badgeLabel": "JM",
+  "signingKey": "6f249a3a739c6754c6a92b0e1402334e20e302ef490fa3b4fdfbc27d92461983",
+  "contact": {
+    "website": "https://github.com/zry516328-boop/extensions-source"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Jinman Tiantang Mod",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantangmod",
+        "resources": {
+          "apkUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.1-5eeb940-2/tachiyomi-zh.jinmantiantangmod-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/zry516328-boop/extensions-source/main/src/zh/jinmantiantangmod/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.1-5eeb940-2/tachiyomi-zh.jinmantiantangmod-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1422330212628046598",
+            "name": "\u7981\u6f2b\u5929\u5802\uff08\u81ea\u7528\uff09",
+            "language": "zh",
+            "homeUrl": "https://18comic.vip",
+            "mirrorUrls": [
+              "https://18comic.vip",
+              "https://18comic.ink",
+              "https://jmcomic-zzz.one",
+              "https://jmcomic-zzz.org"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
