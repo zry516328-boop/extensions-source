@@ -1,6 +1,6 @@
 {
-  "name": "zry516328-boop JM",
-  "badgeLabel": "JM",
+  "name": "zry516328-boop \u81ea\u7528\u6269\u5c55",
+  "badgeLabel": "MOD",
   "signingKey": "6f249a3a739c6754c6a92b0e1402334e20e302ef490fa3b4fdfbc27d92461983",
   "contact": {
     "website": "https://github.com/zry516328-boop/extensions-source"
@@ -11,9 +11,9 @@
         "name": "Jinman Tiantang Mod",
         "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantangmod",
         "resources": {
-          "apkUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.9-1c3fddf-11/tachiyomi-zh.jinmantiantangmod-v1.6.9.apk",
+          "apkUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/ext-abcb194-12/tachiyomi-zh.jinmantiantangmod-v1.6.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/zry516328-boop/extensions-source/main/src/zh/jinmantiantangmod/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.9-1c3fddf-11/tachiyomi-zh.jinmantiantangmod-v1.6.9.jar"
+          "jarUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/ext-abcb194-12/tachiyomi-zh.jinmantiantangmod-v1.6.9.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106009",
@@ -31,6 +31,27 @@
               "https://jmcomic-zzz.one",
               "https://jmcomic-zzz.org"
             ]
+          }
+        ]
+      },
+      {
+        "name": "Picacomic Mod",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.picacomicmod",
+        "resources": {
+          "apkUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/ext-abcb194-12/tachiyomi-zh.picacomicmod-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/zry516328-boop/extensions-source/main/src/zh/picacomicmod/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/ext-abcb194-12/tachiyomi-zh.picacomicmod-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2652107967546264414",
+            "name": "\u54d4\u5494\u6f2b\u753b\uff08\u81ea\u7528\uff09",
+            "language": "zh",
+            "homeUrl": "https://manhuabika.com"
           }
         ]
       }
