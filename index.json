@@ -11,13 +11,13 @@
         "name": "Jinman Tiantang Mod",
         "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantangmod",
         "resources": {
-          "apkUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.8-bca4b19-10/tachiyomi-zh.jinmantiantangmod-v1.6.8.apk",
+          "apkUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.9-1c3fddf-11/tachiyomi-zh.jinmantiantangmod-v1.6.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/zry516328-boop/extensions-source/main/src/zh/jinmantiantangmod/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.8-bca4b19-10/tachiyomi-zh.jinmantiantangmod-v1.6.8.jar"
+          "jarUrl": "https://github.com/zry516328-boop/extensions-source/releases/download/jm-v1.6.9-1c3fddf-11/tachiyomi-zh.jinmantiantangmod-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
